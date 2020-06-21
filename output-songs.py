@@ -4,7 +4,7 @@ from time import sleep
 from random import randint
 
 
-dir = 'C:\\Users\\I\\Desktop\\New folder\\mp3\\'
+dir = 'C:\\Users\\I\\Desktop\\MuR-Beta\\mp3\\'
 
 f = []
 # id = 1
